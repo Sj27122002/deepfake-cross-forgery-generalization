@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+dataset/
+datasets/
+
+# OS
+.DS_Store
+
+# Colab
+*.tmp
