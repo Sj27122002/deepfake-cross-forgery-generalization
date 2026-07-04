@@ -21,3 +21,5 @@ datasets/
 # Colab
 *.tmp
 dummy_data/
+
+extracted_frames/
